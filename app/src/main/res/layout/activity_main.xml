@@ -8,11 +8,11 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/password"
+        android:id="@+id/result"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginHorizontal="50sp"
-        android:layout_marginTop="25sp"
+        android:layout_marginHorizontal="30sp"
+        android:layout_marginTop="100sp"
         android:text="Password"
         android:textSize="35sp" />
 
@@ -22,6 +22,6 @@
         android:layout_height="wrap_content"
 
         android:layout_marginHorizontal="50sp"
-        android:layout_marginTop="400sp"
+        android:layout_marginTop="300sp"
         android:text="Generate" />
 </LinearLayout>
